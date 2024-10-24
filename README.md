@@ -2,7 +2,7 @@
 A Comprehensive Analysis of Student Exam Scores and Demographic Factors
 
 ## 1. Goal
-The goal of this project is to analyze student exam score and demographic data to find trends and patterns using different data mining techniques.
+The goal of this project is to analyze student exam score and demographic data to find trends and patterns while at the same time learning different data mining techniques.
 
 ## 2. Dataset
 The dataset used here is a sample made dataset to protect real confidential student data. It has 1000 rows resembling 1000 students. It has 8 columns describing student exam scores as well as demographics.
