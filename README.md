@@ -14,3 +14,6 @@ The dataset used here is a sample made dataset to protect real confidential stud
 4. Classification And Regression Tree (CART)
 5. Random Forest
 6. Ridge Regression
+
+## 4. Technology 
+The technology used here is a python notebook with libraries such as pandas, matplolib, and various sklearn libraries.
