@@ -17,3 +17,6 @@ The dataset used here is a sample made dataset to protect real confidential stud
 
 ## 4. Technology 
 The technology used here is a python notebook with libraries such as pandas, matplotlib, and various sklearn libraries.
+
+## 5. Report
+The report details the data mining techniques used as well as patterns and trends that were found in the data.
